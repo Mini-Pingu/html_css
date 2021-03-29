@@ -56,4 +56,22 @@
 
 #### 總
 
+1. UTF-8 可以包含所有字符
+
 #### 分
+
+1. 自動因應設備更改寬度的 `meta data`
+
+   ```html
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   ```
+
+2. 常用 `meta`
+
+   ```html
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta name="keywords" content="HTML, CSS">
+   <meta name="description" content="search first display content.">
+   ```
+
+   
